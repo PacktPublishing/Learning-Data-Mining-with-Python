@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B06162?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 This is the code repository for [Learning Data Mining With Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-python?utm_source=github&utm_medium=repository&utm_campaign=9781784396053), written by Robert Layton, and published by Packt Publishing.
 
 *Learning Data Mining With Python* is for programmers who want to get started in data mining in an application-focused manner.
