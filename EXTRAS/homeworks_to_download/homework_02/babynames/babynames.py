@@ -27,7 +27,7 @@ Here's what the html looks like in the baby.html files:
 Suggested milestones for incremental development:
  -Extract the year and print it
  -Extract the names and rank numbers and just print them
- -Get the names data into a dict and print it
+- Get the names data into a dict and print it (you can skip the dictionary and directly use lists if you prefer)
  -Build the [year, 'name rank', ... ] list and print it
  -Fix main() to use the extract_names list
 """
@@ -49,7 +49,7 @@ def main():
   args = sys.argv[1:]
 
   if not args:
-    print 'usage: [--summaryfile] file [file ...]'
+    print('usage: [--summaryfile] file [file ...]')
     sys.exit(1)
 
   # Notice the summary flag and remove it from args if it is present.
@@ -61,6 +61,8 @@ def main():
   # +++your code here+++
   # For each filename, get the names, then either print the text output
   # or write it to a summary file
+  # create Pandas DataFrame with columns being the years and rows being alphabetically listed names 
+  # save the frame into CSV file
   
 if __name__ == '__main__':
   main()
