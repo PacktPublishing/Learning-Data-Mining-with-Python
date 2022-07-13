@@ -1,5 +1,5 @@
 
-
+import pandas as pd
 import sys  
 import re
 
@@ -85,12 +85,16 @@ def main():
     # +++your code here+++
     # For each filename, get the names, then either print the text output
     # or write it to a summary file
-    file = args[0]
-    names_list = extract_names(file)
-    text = '\n'.join(names_list) + '\n'
+    if summary == True:
+        
+        file = args[0]
+        names_list = extract_names(file)
+        text = '\n'.join(names_list) + '\n'
 
-    print(text)
-
+        print(text)
+    
+    else:
+        print('usage: [--summaryfile] file [file ...]')
 
 def main_part_B():
     
@@ -103,17 +107,51 @@ def main_part_B():
     if args[0] == '--summaryfile':
         summary = True
         del args[0]
-
-    # Reading each document .html when somebody use the hint * like *.html to extract all the files ending in .html
-    for doc in args:
-        file = doc
-        names_list = extract_names(file)
-        text = '\n'.join(names_list) + '\n'
-        # Creating a new file with the summary of ranking names of a baby.html
-        new_file = open(f"{doc}.summary", "w")
-        new_file.write(text)
-        new_file.close()    
-
+    
+    if summary == True:
+        # Reading each document .html when somebody use the hint * like *.html to extract all the files ending in .html
+        for doc in args:
+            file = doc
+            names_list = extract_names(file)
+            text = '\n'.join(names_list) + '\n'
+            # Creating a new file with the summary of ranking names of a baby.html
+            new_file = open(f"{doc}.summary", "w")
+            new_file.write(text)
+            new_file.close()    
+    else:
+        print('usage: [--summaryfile] file [file ...]')
+        
+def main_part_C():
+    
+    args = sys.argv[1::]
+    if not args:
+        print('usage: [--summaryfile] file [file ...]')
+        sys.exit(1)
+    
+    summary = False
+    if args[0] == '--summaryfile':
+        summary = True
+        del args[0]
+    
+    if summary == True:
+        
+        columns = []
+        rows = []
+        for doc in args:
+            names_list = extract_names(doc)
+            # Adding the year of each html babies documents
+            columns.append(names_list[0])
+            # Series of each names and ranking of html babies documents
+            rows.append(pd.Series(names_list[1:]))
+        
+        # Creating the DataFrame of the Series
+        df = pd.DataFrame(rows).T
+        # Adding the year in the df's column
+        df.columns = columns
+        # Creating the file csv of the DataFrame
+        df.to_csv("file.csv", index=False)
+            
+    
   
 if __name__ == '__main__':
     
@@ -122,3 +160,8 @@ if __name__ == '__main__':
     
     # Using the part B of the homework, creating the summary files [.summary]
     main_part_B()
+    
+    # Using the part C of the homework, creating the csv DataFrame with the names, ranking and year
+    main_part_C()
+    
+    
