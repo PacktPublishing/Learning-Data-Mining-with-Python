@@ -9,7 +9,7 @@ NUMBER     ,  H01,H02,H03,
 1085315314 ,   -,   ,   ,
 1039475251 ,   -,   ,   ,
 1038337471 ,   A,   ,   ,
-1036654435 ,   A,  A,   ,
+1036654435 ,   A,  A,  A,
 1010088965 ,   -,   ,   ,
 1001362404 ,   A,   ,   ,
 1036785977 ,   A,   ,   ,
@@ -17,6 +17,7 @@ NUMBER     ,  H01,H02,H03,
 
 homework_01 - String Method: 	book's characters analysis (Huckeberry Finn)
 homework_02 - RegEx:		HTML scrapping (Baby names)
+homework_03 - Pandas:		Co2 emission and Athletes events
 
 A: approved
 R: refused (see the comments)
