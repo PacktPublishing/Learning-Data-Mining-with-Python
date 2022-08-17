@@ -1,0 +1,502 @@
+,zipcode,city
+0,98178,Seattle
+1,98125,Seattle
+2,98028,Kenmore
+3,98136,Seattle
+4,98074,Sammamish
+5,98053,Union Hill-Novelty Hill
+6,98003,Federal Way
+7,98198,Des Moines
+8,98146,Seattle
+9,98038,Maple Valley
+10,98007,Bellevue
+11,98115,Seattle
+12,98028,Kenmore
+13,98074,Sammamish
+14,98107,Seattle
+15,98126,Seattle
+16,98019,Duvall
+17,98103,Seattle
+18,98002,Auburn
+19,98003,Federal Way
+20,98133,Seattle
+21,98040,Mercer Island
+22,98092,Auburn
+23,98030,Kent
+24,98030,Kent
+25,98002,Auburn
+26,98119,Seattle
+27,98112,Seattle
+28,98115,Seattle
+29,98052,Redmond
+30,98027,Issaquah
+31,98133,Seattle
+32,98117,Seattle
+33,98117,Seattle
+34,98058,Renton
+35,98115,Seattle
+36,98052,Redmond
+37,98107,Seattle
+38,98001,Auburn
+39,98056,Newcastle
+40,98074,Sammamish
+41,98166,Normandy Park
+42,98053,Union Hill-Novelty Hill
+43,98119,Seattle
+44,98058,Renton
+45,98019,Duvall
+46,98023,Federal Way
+47,98007,Bellevue
+48,98115,Seattle
+49,98070,Vashon
+50,98148,Des Moines
+51,98056,Renton
+52,98117,Seattle
+53,98117,Seattle
+54,98105,Seattle
+55,98105,Seattle
+56,98042,Covington
+57,98042,Covington
+58,98008,Bellevue
+59,98059,Renton
+60,98166,Normandy Park
+61,98148,Burien
+62,98166,Normandy Park
+63,98015,Seattle
+64,98122,Seattle
+65,98144,Seattle
+66,98004,Bellevue
+67,98001,Auburn
+68,98042,Covington
+69,98004,Clyde Hill
+70,98005,Bellevue
+71,98034,Kirkland
+72,98125,Seattle
+73,98038,Maple Valley
+74,98042,Kent
+75,98075,Sammamish
+76,98008,Bellevue
+77,98116,Seattle
+78,98133,Seattle
+79,98010,Black Diamond
+80,98038,Maple Valley
+81,98038,Maple Valley
+82,98118,Seattle
+83,98059,Renton
+84,98165,Seattle
+85,98119,Seattle
+86,98092,Auburn
+87,98056,Renton
+88,98056,Renton
+89,98136,Seattle
+90,98023,Federal Way
+91,98199,Seattle
+92,98023,Federal Way
+93,98117,Seattle
+94,98117,Seattle
+95,98040,Mercer Island
+96,98032,Auburn
+97,98023,Federal Way
+98,98038,Maple Valley
+99,98045,North Bend
+100,98102,Seattle
+101,98117,Seattle
+102,98077,Woodinville
+103,98004,Bellevue
+104,98058,Renton
+105,98058,Renton
+106,98117,Seattle
+107,98198,Des Moines
+108,98077,Cottage Lake
+109,98052,Redmond
+110,98027,Issaquah
+111,98103,Seattle
+112,98038,Maple Valley
+113,98108,Seattle
+114,98001,Auburn
+115,98117,Seattle
+116,98103,Seattle
+117,98178,Seattle
+118,98168,Burien
+119,98144,Seattle
+120,98177,Seattle
+121,98034,Kirkland
+122,98117,Seattle
+123,98118,Seattle
+124,98052,Redmond
+125,98004,Bellevue
+126,98178,Seattle
+127,98023,Federal Way
+128,98103,Seattle
+129,98065,Snoqualmie
+130,98092,Auburn
+131,98027,Issaquah
+132,98053,Redmond
+133,98029,Issaquah
+134,98107,Seattle
+135,98003,Federal Way
+136,98003,Federal Way
+137,98028,Kenmore
+138,98125,Seattle
+139,98107,Seattle
+140,98119,Seattle
+141,98006,Bellevue
+142,98058,Renton
+143,98133,Seattle
+144,98006,Bellevue
+145,98077,Woodinville
+146,98109,Seattle
+147,98027,Issaquah
+148,98032,King County
+149,98103,Seattle
+150,98103,Seattle
+151,98107,Seattle
+152,98003,Federal Way
+153,98006,Bellevue
+154,98115,Seattle
+155,98058,Renton
+156,98056,Newcastle
+157,98023,Federal Way
+158,98022,Enumclaw
+159,98059,Renton
+160,98146,Burien
+161,98034,Kirkland
+162,98075,Sammamish
+163,98034,Kirkland
+164,98027,Issaquah
+165,98034,Kirkland
+166,98198,Normandy Park
+167,98027,Bellevue
+168,98034,Kirkland
+169,98133,Seattle
+170,98166,Burien
+171,98023,Federal Way
+172,98133,Shoreline
+173,98033,Kirkland
+174,98006,Bellevue
+175,98122,Seattle
+176,98144,Seattle
+177,98122,Seattle
+178,98022,Enumclaw
+179,98177,Seattle
+180,98030,Kent
+181,98126,Seattle
+182,98034,Kirkland
+183,98038,Maple Valley
+184,98052,Redmond
+185,98033,Kirkland
+186,98023,Federal Way
+187,98074,Sammamish
+188,98103,Seattle
+189,98052,Redmond
+190,98034,Kirkland
+191,98058,Renton
+192,98040,Mercer Island
+193,98133,Seattle
+194,98155,Shoreline
+195,98023,Federal Way
+196,98108,Seattle
+197,98126,Seattle
+198,98027,Issaquah
+199,98038,Maple Valley
+200,98056,Renton
+201,98042,Kent
+202,98107,Seattle
+203,98023,Federal Way
+204,98059,Renton
+205,98040,Mercer Island
+206,98052,Redmond
+207,98126,Seattle
+208,98166,Burien
+209,98133,Seattle
+210,98038,Maple Valley
+211,98105,Seattle
+212,98074,Sammamish
+213,98001,Auburn
+214,98118,Seattle
+215,98168,Burien
+216,98040,Mercer Island
+217,98146,Seattle
+218,98144,Seattle
+219,98177,Seattle
+220,98075,Sammamish
+221,98198,Des Moines
+222,98011,Bothell
+223,98030,Kent
+224,98038,Maple Valley
+225,98146,Seattle
+226,98053,Union Hill-Novelty Hill
+227,98023,Federal Way
+228,98031,Kent
+229,98053,Union Hill-Novelty Hill
+230,98166,Burien
+231,98059,Newcastle
+232,98023,Federal Way
+233,98024,Fall City
+234,98108,Seattle
+235,98033,Kirkland
+236,98051,Ravensdale
+237,98122,Seattle
+238,98077,Woodinville
+239,98003,Federal Way
+240,98003,Federal Way
+241,98126,Seattle
+242,98115,Seattle
+243,98002,Auburn
+244,98103,Seattle
+245,98023,Federal Way
+246,98074,Sammamish
+247,98106,Seattle
+248,98002,Auburn
+249,98103,Seattle
+250,98032,Kent
+251,98058,Renton
+252,98045,North Bend
+253,98118,Seattle
+254,98030,Kent
+255,98115,Seattle
+256,98106,Seattle
+257,98059,Renton
+258,98045,North Bend
+259,980522866,Redmond
+260,98112,Seattle
+261,98198,SeaTac
+262,98074,Sammamish
+263,98144,Seattle
+264,98070,Vashon
+265,98031,Kent
+266,98106,Seattle
+267,98115,Seattle
+268,98023,Federal Way
+269,98004,Bellevue
+270,98077,Woodinville
+271,98133,Seattle
+272,98003,Federal Way
+273,98178,Seattle
+274,98199,Seattle
+275,98031,Kent
+276,98058,Renton
+277,98028,Kenmore
+278,98038,Maple Valley
+279,98118,Seattle
+280,98031,Kent
+281,98178,Tukwila
+282,98122,Seattle
+283,98053,Union Hill-Novelty Hill
+284,98028,Kenmore
+285,98030,Kent
+286,98072,Woodinville
+287,98034,Kirkland
+288,98006,Bellevue
+289,98006,Bellevue
+290,98166,Normandy Park
+291,98034,Kirkland
+292,98001,Auburn
+293,98056,Newcastle
+294,98126,Seattle
+295,98075,Sammamish
+296,98042,Kent
+297,98059,Renton
+298,98108,Seattle
+299,98188,Seatac
+300,98074,Sammamish
+301,98003,Federal Way
+302,98117,Seattle
+303,98038,Maple Valley
+304,98166,Burien
+305,98112,Seattle
+306,98177,Seattle
+307,98074,Sammamish
+308,98105,Seattle
+309,98056,Newcastle
+310,98144,Seattle
+311,98065,Snoqualmie
+312,98119,Seattle
+313,98006,Bellevue
+314,98006,Bellevue
+315,98058,Renton
+316,98133,Seattle
+317,98042,Kent
+318,98103,Seattle
+319,98166,Burien
+320,98052,Redmond
+321,98027,Issaquah
+322,98047,Pacific
+323,98023,Federal Way
+324,98146,Seattle
+325,98146,Seattle
+326,98077,Woodinville
+327,98102,Seattle
+328,98166,Burien
+329,98005,Bellevue
+330,98105,Seattle
+331,98198,Des Moines
+332,98022,Enumclaw
+333,98103,Seattle
+334,98040,Mercer Island
+335,98038,Maple Valley
+336,98072,Woodinville
+337,98103,Seattle
+338,98133,Seattle
+339,98178,Seattle
+340,98052,Redmond
+341,98059,Newcastle
+342,98125,Seattle
+343,98070,Vashon
+344,98065,Snoqualmie
+345,98178,Seattle
+346,98178,Seattle
+347,98059,Renton
+348,98030,Kent
+349,98155,Seattle
+350,98014,Carnation
+351,98040,Mercer Island
+352,98166,Normandy Park
+353,98103,Seattle
+354,98001,Auburn
+355,98118,Seattle
+356,98038,Maple Valley
+357,98006,Bellevue
+358,98033,Kirkland
+359,98116,Seattle
+360,98053,Redmond
+361,98059,Renton
+362,98038,Maple Valley
+363,98033,Kirkland
+364,98006,Bellevue
+365,98045,North Bend
+366,98166,Burien
+367,98074,Sammamish
+368,98075,Sammamish
+369,98056,Renton
+370,98056,Renton
+371,98133,Shoreline
+372,98133,Shoreline
+373,98023,Federal Way
+374,98056,Renton
+375,98075,Sammamish
+376,98125,Seattle
+377,98038,Maple Valley
+378,98103,Seattle
+379,98144,Seattle
+380,98011,Bothell
+381,98077,Woodinville
+382,98019,Duvall
+383,98052,Redmond
+384,98006,Bellevue
+385,98040,Mercer Island
+386,98072,Woodinville
+387,98058,Renton
+388,98146,Burien
+389,98177,Shoreline
+390,98106,Seattle
+391,98008,Bellevue
+392,98019,Duvall
+393,98004,Clyde Hill
+394,98040,Mercer Island
+395,98028,Kenmore
+396,98008,Bellevue
+397,98006,Bellevue
+398,98118,Seattle
+399,98058,Renton
+400,98122,Seattle
+401,98022,Enumclaw
+402,98117,Seattle
+403,98045,North Bend
+404,98038,Maple Valley
+405,98116,Seattle
+406,98103,Seattle
+407,98092,Auburn
+408,98055,Renton
+409,98038,Maple Valley
+410,98031,Kent
+411,98070,Vashon
+412,98077,Woodinville
+413,98034,Kirkland
+414,98178,Seattle
+415,98052,Redmond
+416,98024,Fall City
+417,98133,Seattle
+418,98019,Duvall
+419,98024,Fall City
+420,98103,Seattle
+421,98006,Bellevue
+422,98056,Newcastle
+423,98058,Renton
+424,98122,Seattle
+425,98038,Maple Valley
+426,98166,Normandy Park
+427,98004,Bellevue
+428,98034,Kirkland
+429,98058,Renton
+430,98042,Kent
+431,98052,Redmond
+432,98103,Seattle
+433,98055,Renton
+434,98011,Bothell
+435,98006,Bellevue
+436,98074,Sammamish
+437,98052,Redmond
+438,98115,Seattle
+439,98146,Seattle
+440,98047,Pacific
+441,98001,Lakeland North
+442,98105,Seattle
+443,98038,Maple Valley
+444,98032,Kent
+445,98072,Woodinville
+446,98027,Issaquah
+447,98034,Kirkland
+448,98034,Kirkland
+449,98028,Kenmore
+450,98034,Kirkland
+451,98011,Bothell
+452,98038,Maple Valley
+453,98006,Bellevue
+454,98040,Mercer Island
+455,98028,Kenmore
+456,98072,Woodinville
+457,98070,Vashon
+458,98057,Renton
+459,98042,Covington
+460,98006,Bellevue
+461,98042,Covington
+462,98031,Kent
+463,98023,Federal Way
+464,98133,Seattle
+465,98014,Carnation
+466,98133,Seattle
+467,98042,Covington
+468,98168,Burien
+469,98038,Maple Valley
+470,98178,Tukwila
+471,98074,Sammamish
+472,98125,Seattle
+473,98074,Sammamish
+474,98075,Sammamish
+475,98029,Issaquah
+476,98118,Seattle
+477,98115,Seattle
+478,98126,Seattle
+479,98033,Kirkland
+480,98006,Bellevue
+481,98042,Kent
+482,98005,Bellevue
+483,98136,Seattle
+484,98074,Sammamish
+485,98023,Federal Way
+486,98006,Bellevue
+487,98118,Seattle
+488,98075,Sammamish
+489,98027,Issaquah
+490,98052,Redmond
+491,98055,Renton
+492,98042,Kent
+493,98034,Kirkland
+494,98034,Kirkland
+495,98112,Seattle
+496,98116,Seattle
+497,98032,Kent
+498,98116,Seattle
+499,98065,Snoqualmie
+500,98039,Medina
