@@ -1,0 +1,4 @@
+part 1 produces error
+UnicodeEncodeError: 'latin-1' codec can't encode character '\u2019' in position 45: ordinal not in range(256)
+
+part 2 is OK
