@@ -43,3 +43,19 @@ Say that again									Repitelo
 Can you repeat, please?								Usted puede repetir?
 What do you mean?								Como asi?
 Can you speak slower, please, thank you.					Puedes hablar mas despacio, por favor, gracias
+
+
+2022.08.20
+- where have you been?								como estas?
+- how have you been?								donde estabas?
+- at some point									en algun momento
+- there is / there was								habia..
+- exactly									exactamente
+- what a pity									que lastima
+- I have been busy								estaba ocupado
+- guy (guys)									hombre, chico (hombres o gente)
+- expedition									expedicion
+- jungle									jungla
+- wife										esposa
+- staring through the window							mirando atraves la ventana (sin proposito)
+
