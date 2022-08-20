@@ -50,6 +50,10 @@ Can you speak slower, please, thank you.					Puedes hablar mas despacio, por fav
 - how have you been?								donde estabas?
 - at some point									en algun momento
 - there is / there was								habia..
+- I appologize									disculpa
+- sorry for not appearing in the last class					por no aparecer en la clase pasada			
+- sorry for coming late								por llegar tarde
+- my bad									mi culpa
 - exactly									exactamente
 - what a pity									que lastima
 - I have been busy								estaba ocupado
