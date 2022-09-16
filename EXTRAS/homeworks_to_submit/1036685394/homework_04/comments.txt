@@ -1,4 +1,0 @@
-the part 1 of the exercise 4 produces error
-...'latin-1' codec can't encode character '\u2019' in position 45: ordinal not in range(256)
-
-the part2 was supposed to be running using command line
