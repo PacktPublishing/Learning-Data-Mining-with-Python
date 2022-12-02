@@ -1,6 +1,6 @@
 NUMBER     ,  H01,H02,H03,H04,H05,H06,
-1035433047 ,   A,  A,  A,  A,  		
-1001143307 ,   A,  A,  A,  A,  				
+1035433047 ,   A,  A,  A,  A,  A,  A
+1001143307 ,   A,  A,  A,  A,  
 1007322018 ,   A,  A,  A,  A,  
 1017274531 ,   A,  A,  A,  A,  
 1216730080 ,   A,  A,  A,  A,  
@@ -11,9 +11,9 @@ NUMBER     ,  H01,H02,H03,H04,H05,H06,
 1038337471 ,   A,  A,  A,  A,  R,  A
 1036654435 ,   A,  A,  A,  A,  A,  A
 1010088965 ,   A,  A,  A,  A,  A,  A
-1001362404 ,   A,  A,   ,   ,  
+1001362404 ,   A,  A,  A,  A,
 1036785977 ,   A,  A,  A,  A,  
-1152223665 ,   A,  A,  A,  A,  A,  
+1152223665 ,   A,  A,  A,  A,  A,  A
 
 homework_01 - String Method: 	book's characters analysis (Huckeberry Finn)
 homework_02 - RegEx:		HTML data extraction (Baby names)
@@ -21,7 +21,6 @@ homework_03 - Pandas:		cars CO2 emission and Athletes events
 homework_04 - BlueSoup:		WebScrapping
 homework_05 - NLP:		Natural Language processing (Sentiment Analysis ENG)
 homework_06 - JSON:		Data extraction from JSON based repository
-
 
 A: approved
 R: reproved (see comments in order to correct the homework)
