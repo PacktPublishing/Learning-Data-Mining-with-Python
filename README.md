@@ -1,4 +1,9 @@
-This is the code repository for [Learning Data Mining With Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-python?utm_source=github&utm_medium=repository&utm_campaign=9781784396053), written by Robert Layton, and published by Packt Publishing.
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY) 
+
+ Learn from 15+ AI experts, 10+ power-talks and 6+ hands-on sessions to upskill and future proof your career. 
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b>This is the code repository for [Learning Data Mining With Python](https://www.packtpub.com/big-data-and-business-intelligence/learning-data-mining-python?utm_source=github&utm_medium=repository&utm_campaign=9781784396053), written by Robert Layton, and published by Packt Publishing.
 
 *Learning Data Mining With Python* is for programmers who want to get started in data mining in an application-focused manner.
 If you haven't programmed before, it is strongly recommend that you learn at least the basics before you get started. This book doesn't introduce programming, nor does it give too much time to explain the actual implementation (in code) of how to type out the instructions. That said, once you go through the basics, you should be able to come back to this book fairly quickly---there is no need to be an expert programmer first!
